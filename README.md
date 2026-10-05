@@ -13,7 +13,7 @@
 # Getting Started
 
 ### Pactum docs:
- - [PactumJS](https://pactumjs.github.io/)
+ - [PactumJS](https://pactumjs.github.io/) 
 
 ### Prerequisites:
  - NodeJS `v22`
